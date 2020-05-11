@@ -27,6 +27,9 @@ body{
     margin-left: 1%;
     margin-top: 20px;
 }
+.one img,span:hover{
+    cursor: pointer;
+}
 .read{
     width: 10%;
     display: flex;
@@ -38,6 +41,9 @@ body{
 }
 .read span{
     font-weight: 500;
+}
+.read img,span:hover{
+    cursor: pointer;
 }
 .things{
     /* background-color: rosybrown; */
